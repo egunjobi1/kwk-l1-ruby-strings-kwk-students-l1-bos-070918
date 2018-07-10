@@ -4,7 +4,7 @@ guest_name = gets.chomp.capitalize
 
 puts "What school did you go to?"
 
-party_name = gets.chomp.captilize
+party_name = gets.chomp.capitalize
 
 puts "What date are you free?"
 
@@ -14,7 +14,7 @@ time = nine pm
 
 puts "What's your best friend's name?"
 
-host_name = gets.chomp.captilize
+host_name = gets.chomp.capitalize
 
 puts "Dear #{guest_name}"
 
