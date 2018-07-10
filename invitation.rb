@@ -1,6 +1,6 @@
 puts "What is your name?"
 
-guest_name = gets.chomp.captilize
+guest_name = gets.chomp.capitalize
 
 puts "What school did you go to?"
 
