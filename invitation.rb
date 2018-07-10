@@ -1,4 +1,4 @@
-guest_name = Annabeth
+guest_name = #{guest_name}
 
 party_name = Camp Half-Blood Reunion Party
 
