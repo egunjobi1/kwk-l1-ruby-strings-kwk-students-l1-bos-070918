@@ -23,7 +23,7 @@ puts "You are cordially invited to the #{party_name} 's reunion party on #{date}
 puts "Sincerely,"
 
 
-puts "Harry Potter"
+puts "#guest_name"
 
 
 
