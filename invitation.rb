@@ -1,6 +1,6 @@
-guest_name = #{guest_name}
+guest_name = gets.chomp.captilize
 
-party_name = Camp Half-Blood Reunion Party
+party_name = gets.chomp.captilize
 
 date = July 10 
 
