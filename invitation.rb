@@ -2,9 +2,9 @@ guest_name = gets.chomp.captilize
 
 party_name = gets.chomp.captilize
 
-date = July 10 
+date = gets.chomp
 
-time = 6:30 pm
+time = gets.chomp
 
 host_name = Percy 
 
