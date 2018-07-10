@@ -8,7 +8,7 @@ party_name = gets.chomp.capitalize
 
 puts "What date are you free?"
 
-date = gets.chomp
+date = gets.chomp.capitalize
 
 time = nine pm
 
