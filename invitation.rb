@@ -10,7 +10,7 @@ puts "What date are you free?"
 
 date = gets.chomp.capitalize
 
-time = nine pm
+time = "nine pm"
 
 puts "What's your best friend's name?"
 
