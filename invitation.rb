@@ -14,13 +14,13 @@ time = nine pm
 
 puts "What's your best friend's name?"
 
-host_name = Percy 
+host_name = gets.chomp.captilize
 
 puts "Dear #{guest_name}"
 
 puts "You are cordially invited to the #{party_name} 's reunion party on #{date} at #{time}. Please RSVP no later than July 1st. "
 
-puts "Sincerly,"
+puts "Sincerely,"
 
 
 puts "Harry Potter"
